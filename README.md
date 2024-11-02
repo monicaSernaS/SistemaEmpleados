@@ -47,5 +47,5 @@ Los empleados se guardan en un archivo en disco (ej. `empleados.dat`), lo que pe
 
 2. **Clonar el Repositorio**:
    ```bash
-   git clone <URL-del-repositorio>
+   git clone <https://github.com/monicaSernaS/SistemaEmpleados.git>
    cd SistemaEmpleados
